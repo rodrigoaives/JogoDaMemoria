@@ -139,7 +139,7 @@
             this.moedinha.BackColor = System.Drawing.Color.Transparent;
             this.moedinha.BackgroundImage = global::JogoDeMemoria.Properties.Resources.moedinha;
             this.moedinha.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.moedinha.Location = new System.Drawing.Point(597, 19);
+            this.moedinha.Location = new System.Drawing.Point(594, 21);
             this.moedinha.Name = "moedinha";
             this.moedinha.Size = new System.Drawing.Size(70, 31);
             this.moedinha.TabIndex = 26;
